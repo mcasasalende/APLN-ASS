@@ -1,6 +1,6 @@
 # APLN-ASS
 
-Summary generation
+**Automatic Summarization System**
 
 *Authors*: Manuel Casas Alende, Bárbara Escalante Belmonte and Tomás Mermelstein
 
